@@ -55,9 +55,3 @@ The system analyzes job descriptions and predicts whether the posting is **Real 
 6️⃣ Predict whether the job posting is **Fake or Real**
 
 ---
-
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/your-username/fake-job-posting-detection.git
